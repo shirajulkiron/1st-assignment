@@ -1,0 +1,34 @@
+body{
+	background:#35716F ;
+	
+}
+table{
+	width: 100%;
+	background: #eee;
+   text-align: center;
+   border-radius: 3rem;
+   
+
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	background: #79CAB3;
+	padding: 1rem 4rem;
+	margin-left: 500px;
+	margin-right: 500px;
+	border-radius: 2rem;
+}
+tr{
+  background-image: linear-gradient(-90deg, #5CC7C7, #4A814E);
+
+	color: white;
+	word-spacing: .2rem;
+}
+.ab{
+	text-align: center;
+	background: #92B5B5;
+	letter-spacing: 4px;
+   font-weight: 700;
+text-transform: uppercase;
+}
